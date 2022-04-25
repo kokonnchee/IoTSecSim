@@ -1,0 +1,9 @@
+simRunName=c1-0-50ns
+topologyStyle=50same
+graphDensity=1.96
+special=0
+attackNum=0
+percentageOfVulnNodes=None
+atkerNum=1
+defenderNum=2
+deviceTypeNum=11

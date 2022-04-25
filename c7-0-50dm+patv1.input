@@ -1,0 +1,9 @@
+simRunName=c7-0-50dm+patv1
+topologyStyle=50dif
+graphDensity=1.96
+special=0
+attackNum=0
+percentageOfVulnNodes=None
+atkerNum=1
+defenderNum=1
+deviceTypeNum=11

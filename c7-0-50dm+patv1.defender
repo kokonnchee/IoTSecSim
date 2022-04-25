@@ -1,0 +1,11 @@
+defender,Name,Action,Protocol,SourceIP,SourcePort,FlowDirection,DestinationIP,DestinationPort,msg,content,rev,priority,where,vulnerability,triggerAttempt,smart,dummy,mode,addNewRule
+patching-1,401.0,,,,,,,,,,,,,lightbulb,5.0,,,1.0,
+,,,,,,,,,,,,,,v1,,,,,
+,,,,,,,,,,,,,,ipcamera,,,,,
+,,,,,,,,,,,,,,v1,,,,,
+,,,,,,,,,,,,,,smokeAlarm,,,,,
+,,,,,,,,,,,,,,v1,,,,,
+,,,,,,,,,,,,,,nvr,,,,,
+,,,,,,,,,,,,,,v1,,,,,
+,,,,,,,,,,,,,,tv,,,,,
+,,,,,,,,,,,,,,v1,,,,,
