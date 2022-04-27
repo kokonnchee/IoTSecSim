@@ -1,10 +1,10 @@
 # IoTSecSim - A Framework for Modelling and Simulation of Security in Internet of Things
 
-The project proposes a framework which focuses on IoT security. The main goals of our framework are:
-1. to model and simulate cyber-attacks and defences in IoT networks; and 
-2. to evaluate the effectiveness of different defence techniques with using various security metrics.
+The project is focusing on building a framework of IoT security. Our main goals are:
+1. to model IoT attacks and defences in an emulated IoT networks; and 
+2. to evaluate the impact of different defence techniques on IoT attacks by using multiple security metrics.
 
-This framework supports **creation of IoT networks** with various types of IoT devices and network topologies, **modelling of malware attacks** against IoT networks and **evaluation of relevant defences**. The simulation software provides great flexibility and adaptability to users and can be extended with new modules to investigate newly discovered malware attacks and defences.
+This framework can **create IoT networks** with different settings and configurations on IoT devices and network topologies, **model malware attacks** against the emulated IoT networks and **evaluate relevant defences**. The simulation software is built with the aim to offer flexibility and adaptability to users. Also, it can be extended with new features and functionalities to simulate recent discovered malware attacks and defences.
 
 ## Framework Illustration
 ![IoTSecSim framework](https://github.com/kokonnchee/IoTSecSim/blob/main/framework.png?raw=true)
