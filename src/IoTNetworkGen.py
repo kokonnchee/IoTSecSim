@@ -1335,6 +1335,7 @@ def randomRemoveVul(net, percentageOfVulnNodes):
                 tempNode = choice(tempList)
                 if len(tempNode.vul.nodes) > 0 and tempNode.canBeCompromised == True:
                     removeAllVuln(tempNode)
+                    num -= 1
 
     return None
 
