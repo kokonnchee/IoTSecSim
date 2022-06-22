@@ -687,7 +687,7 @@ def runSimulation(inputfile, simRunName, currentDir):
     AtkerTimeDataDict.pop("X")
     
     for x in IoTAttack:
-        if attacks[0] == "9" or attacks[0] == "12":
+        if attacks[0] == "3" or attacks[0] == "4" or attacks[0] == "9" or attacks[0] == "12":
             IoTAttack[x]["target"] = getTargetlist(special, topologyStyle, IoTAttack[x]["target"])
         else:
             IoTAttack[x].pop("target", None)
