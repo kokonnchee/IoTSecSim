@@ -59,8 +59,8 @@ Our main goals are:
 
 ## Publication(s)
 Kok Onn Chee, Mengmeng Ge, Guangdong Bai, and Dan Dongseong Kim, 
-[IoTSecSim: A Framework for Modelling and Simulation of Security in Internet of Things](https://doi.org/10.36227/techrxiv.19727389.v2), 
-TechRxiv Preprint, 2022.
+[IoTSecSim: A Framework for Modelling and Simulation of Security in Internet of Things](https://doi.org/10.1016/j.cose.2023.103534), 
+_Computers & Security_ (2023): 103534.
 
 
 
