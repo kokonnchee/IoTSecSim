@@ -3,7 +3,7 @@
 
 
 ## Project Description
-This project is focusing on building a framework for IoT security. This framework can **create IoT networks** with different settings and configurations on IoT devices and network topologies, **model malware attacks** against the emulated IoT networks and **evaluate relevant defences**. The simulation software is built with the aim to offer flexibility and adaptability to users. Also, it can be extended with new features and functionalities to simulate recently discovered malware attacks and defences.
+This project is focusing on building a framework for IoT security. This framework can **create IoT networks** with different settings and configurations on IoT devices and network topologies, **model malware attacks** against the emulated IoT networks and **evaluate relevant defences**. The simulation software is built with the aim to offer flexibility and adaptability to users. Also, it can be extended with new features and functionalities to simulate recently discovered IoT attacks and defences.
 
 ### Project Goal
 1. to model IoT attacks and defences in emulated IoT networks;
@@ -55,7 +55,7 @@ This project is focusing on building a framework for IoT security. This framewor
 
 
 ## Version History and Features Included
-### Version 1.0:
+### Version 1.0: added in April 2022
 * **Attacker**
   * `Local learning`
   * `Global learning`
@@ -73,7 +73,7 @@ This project is focusing on building a framework for IoT security. This framewor
   * `Different Network Topologies`
   * `Various Device Types`
 
-### Version 2.0:
+### Version 2.0: added in September 2024
 * **Attacker**
   * `Exploitation tactic`
     * `Credential Exploitation`
