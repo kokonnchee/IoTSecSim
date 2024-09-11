@@ -67,6 +67,7 @@ This project is focusing on building a framework for IoT security. This framewor
 * **Defence**
   * `Firewall`
   * `Vulnerability Patching`
+  * `Intrusion Detection System`
 
 * **Network**
   * `Customisable Network Size`
@@ -101,6 +102,11 @@ This project is focusing on building a framework for IoT security. This framewor
   * `Credential Protection`
   * `Device Reboot`
   * `Anti-malware Scanning`
+  * `Moving Target Defence`
+    * `AP Shuffling`
+    * `Topology Shuffling`
+  * `Cyber Deception`
+    * `Decoy`
 
 * **Network**
   * `Memory consumption`
