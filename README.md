@@ -116,10 +116,13 @@ This project is focusing on building a framework for IoT security. This framewor
 
 
 ## Publication(s)
-Kok Onn Chee, Mengmeng Ge, Guangdong Bai, and Dan Dongseong Kim, (2024),
+* Kok Onn Chee, Mengmeng Ge, Guangdong Bai, and Dan Dongseong Kim, (2024),
 [IoTSecSim: A Framework for Modelling and Simulation of Security in Internet of Things](https://doi.org/10.1016/j.cose.2023.103534), 
 _Computers & Security_, 136, 103534.
 
+* Kok Onn Chee, Mengmeng Ge, Guangdong Bai, and Dan Dongseong Kim, (2025),
+[Unveiling the Evolution of IoT Threats: Trends, Tactics, and Simulation Analysis](https://doi.org/10.1016/j.cose.2025.104537), 
+_Computers & Security_, 157, 104537.
 
 
 ## About
